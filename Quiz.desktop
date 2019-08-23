@@ -1,8 +1,0 @@
-[Desktop Entry]
-Encoding=UTF-8
-Version=0.1
-Type=Application
-Terminal=false
-Exec=/home/lorenzo/Development/quiz_patente/random_quiz.py -y
-Name=Quiz
-Icon=/home/lorenzo/Development/quiz_patente/automotive-steering-wheel2-512.png
